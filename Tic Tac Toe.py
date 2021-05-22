@@ -119,4 +119,3 @@ while True:
 			movimiento_maquina()
 		else:
 			movimientos_jugador()
-#Video 6:59
